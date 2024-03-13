@@ -1,0 +1,87 @@
+body{
+  height: 800px;
+}
+.container
+{
+  width: 1105px;
+  height: 322px;
+  margin-top: 50px;
+  margin-left: 130px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+}
+.intCont .title
+{
+font-size: 32px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: -0.25px;
+text-align: left;
+}
+.intCont
+{
+  height: 188px;
+  width: 345px;
+  background-color: none;
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.para
+{
+font-size: 20px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: left;
+color: #557087;
+}
+.button
+{
+  width: 169px;
+  height: 56px;
+  background-color: #557087;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.right,.image
+{
+width: 630px;
+height: 322px;
+background-color: #E0E8F0;
+position: relative;
+border-radius: 10px;
+}
+.image{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+.image, img{
+  position: relative;
+  margin: auto;
+}
+.container2
+{
+width: 1105px;
+height: 322px;
+margin-top: 420px;
+margin-left: 130px;
+position: absolute;
+display: flex;
+justify-content: space-between;
+}
+.title, .para
+{
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
